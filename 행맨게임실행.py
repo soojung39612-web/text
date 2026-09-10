@@ -1,4 +1,4 @@
-import random
+import random123
 
 class Hangman:
     def __init__(self):
